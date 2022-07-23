@@ -58,7 +58,7 @@ display:inline-block;
 padding:20px;
 div{
   text-align:center;
-  width:400px;
+  width:380px;
   height:200px;
   border-radius:10px;
   background-color:#fff;
